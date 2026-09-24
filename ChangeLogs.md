@@ -38,3 +38,31 @@
 
 Update 2.0.2 ChangeLogs End Here.
 ---------------------------------------------------------------------------------------------------------------------------------------------
+# Update 1.0.1:
+
+ Bug Fixes:
+  - Fixed Pap Camos for guns that are in this list
+     Ballista
+     M27
+     DSR-50
+     Uzi
+     M1927/Tommy Gun/Thompson
+     HAMR
+     MP40
+ - Fixed Animations (PAPed) For these guns
+     Ballista
+     DSR-50
+     M27
+     HAMR (broken after 2nd pap)
+     MP40 (Fixed textures)
+  - Fixed HUD Issues (where hud wouldnt show up)
+
+ Update 1.0.1 ChangeLogs End Here.
+ ---------------------------------------------------------------------------------------------------------------------------------------------
+ # Update 1.0.0:
+
+  Bug Fixes:
+   - Fixed HUD (Revive Icons included) this may fix other ui/hud issues.
+
+ Update 1.0.0 ChangeLogs End Here.
+---------------------------------------------------------------------------------------------------------------------------------------------
