@@ -22,6 +22,7 @@
   - NML always has Jug Now.
   - All Perma Perks that are doable are working.
   - Perma Perks Are now a Option On DLC5 Maps.
+  - Perma Perks Now Dont Require Your Account Reaching Above Or Exactly Round 10.
 
  Bug Fixes:
 
