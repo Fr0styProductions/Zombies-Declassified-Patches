@@ -25,7 +25,6 @@
   - Perma Perks Now Dont Require Your Account Reaching Above Or Exactly Round 10.
   - Fixed Map Art For Ascension.
   - Fixed Map Art For Shangri-La.
-  - New Globe Icon for Five/Pentagon.
   - New Map Art for Five/Pentagon.
   - NML Survival Time When Dying and in The Bottom Left When In-Game.
 
