@@ -14,3 +14,5 @@ Thats it should be finished!
 
 There will be more releases soon
 Made By Fr0sty/ <https://guns.lol/fr0s_ty_>
+
+# VIDEOS MADE WITH THESE PATCHES HAVE TO HAVE MY CREDITS IN THEM "@fr0sty_7952 on Youtube, @fr0s_ty_ on Discord, <https://guns.lol/fr0s_ty_>" OR THEY WILL BE TAKEN DOWN.
