@@ -13,4 +13,4 @@ UnInstallation:
 Thats it should be finished!
 
 There will be more releases soon
-Made By Fr0sty/ https://guns.lol/fr0s_ty_
+Made By Fr0sty/ <https://guns.lol/fr0s_ty_>
