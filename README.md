@@ -1,6 +1,18 @@
 # Zombies-Declassified-Patches
 Zombies Declassified-Patches is a bug fix for the release of ZD/Zombies Declassified which is a bo2 dlc 5 port to black ops 2 plutonium this fixes most of the bugs in the current releases!
 
+# Features:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ - Kino Grief
+ - Kino Turned
+ - Bug Fixes For Multiple Maps
+ - No Man's Land Gamemode on Moon
+ - New Map Art for Kino
+ - New Map Art for Five
+ - Fixed Map art For Moon
+ - Fixed Map art For Shangri-La
+ - Fixed Map art For Ascension
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Installation:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
