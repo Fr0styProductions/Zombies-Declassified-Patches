@@ -36,9 +36,9 @@
   - Nukes Now Affect Dogs.
   - Moon Gravity Fixed.
   - You Now Cant Die with 0 Gravity on Moon.
-  - Moon EE is now Solo/Any Player, (Thanks to @chihab_98633 on Discord).
-  - Moon Astronauts behave normally, (Thanks to @chihab_98633 on Discord).
-  - Moon Round Changes issues Fixed, (Thanks to @chihab_98633 on Discord).
+  - Moon EE is now Solo/Any Player.
+  - Moon Astronauts behave normally.
+  - Moon Round Changes issues Fixed.
   - Ray Gun Mark 2 Sounds Now Fully Work.
 
 Update 2.0.2 ChangeLogs End Here.
