@@ -1,5 +1,23 @@
 # ChangeLogs:
 ---------------------------------------------------------------------------------------------------------------------------------------------
+# Small Update 2.0.3:
+
+ Newly Added:
+
+  - Ascension Any Player EE.
+  - Shang Any Player EE.
+
+ Bug Fixes:
+
+  - Proper Nalpalm/Fixed Nalpalm.
+  - Water Slide Fixed.
+  - S12/Synthetic Dozen Reflex Sight Pap Animation Fixed.
+  - Fixed Jug Powering Off in NML.
+  - Fixed Five Map Selection On Exit Crashing Game.
+  - Accurate Map Selection Positions for Mouse on Moon.
+
+Small Update 2.0.3 ChangeLogs End Here.
+---------------------------------------------------------------------------------------------------------------------------------------------
 # Update 2.0.2:
 
  Newly Added:
