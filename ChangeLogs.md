@@ -23,9 +23,10 @@
   - Phd in NML now faces the right way.
   - Missing Voice lines are now there!
   - Annoucer for Death Machine, Bonfire Sale, Dogs Round!
-  - Melee Knife sound is back
-  - Turned is Now Knifing sounds instead of the zombie swing sound (Unfixable without have source)
-  - Moon Buzzer/Alarm is now the normal moon buzzer/alarm instead of the der riese buzzer/alarm
+  - Melee Knife sound is back.
+  - Turned is Now Knifing sounds instead of the zombie swing sound (Unfixable without have source).
+  - Moon Buzzer/Alarm is now the normal moon buzzer/alarm instead of the der riese buzzer/alarm.
+  - Jug/Speed Cola is Now Always Powered On.
 
 Update 2.0.4 ChangeLogs End Here.
 ---------------------------------------------------------------------------------------------------------------------------------------------
