@@ -13,6 +13,7 @@
       After a player swaps it out for another box gun | +20% for the rest of the game.
   - Winters Howl Walking Looks Better (The lowering when u walk or crouch).
   - Starting Delay on DLC 5 Maps.
+  - Death Animation on DLC 5 Maps.
 
  Bug Fixes:
 
@@ -24,6 +25,7 @@
   - Annoucer for Death Machine, Bonfire Sale, Dogs Round!
   - Melee Knife sound is back
   - Turned is Now Knifing sounds instead of the zombie swing sound (Unfixable without have source)
+  - Moon Buzzer/Alarm is now the normal moon buzzer/alarm instead of the der riese buzzer/alarm
 
 Update 2.0.4 ChangeLogs End Here.
 ---------------------------------------------------------------------------------------------------------------------------------------------
