@@ -12,6 +12,9 @@ Zombies Declassified-Patches is a bug fix for the release of ZD/Zombies Declassi
  - Fixed Map art For Moon
  - Fixed Map art For Shangri-La
  - Fixed Map art For Ascension
+ - Solo/Any Player EE on Moon
+ - Solo/Any Player EE on Ascension
+ - Solo/Any Player EE on Shangri-La
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Installation:
