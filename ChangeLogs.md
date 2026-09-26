@@ -1,5 +1,32 @@
 # ChangeLogs:
 ---------------------------------------------------------------------------------------------------------------------------------------------
+# Update 2.0.4:
+
+ Newly Added:
+
+  - Earth Is now there and after firing rockets at the earth it will change to EE Earth.
+  - Voicelines for every DLC 5 Map!
+  - Wunderwaffle box chances behave like bo1
+      Rounds 1-5 | 2.5%
+      After Rounds 5 | 15-16%
+      After Rounds 10 | 20%
+      After a player swaps it out for another box gun | +20% for the rest of the game.
+  - Winters Howl Walking Looks Better (The lowering when u walk or crouch).
+  - Starting Delay on DLC 5 Maps.
+
+ Bug Fixes:
+
+  - Gersh Now Looks like bo1's version.
+  - Gersh Is Fixed.
+  - PAP Camos Broken (my fault).
+  - Phd in NML now faces the right way.
+  - Missing Voice lines are now there!
+  - Annoucer for Death Machine, Bonfire Sale, Dogs Round!
+  - Melee Knife sound is back
+  - Turned is Now Knifing sounds instead of the zombie swing sound (Unfixable without have source)
+
+Update 2.0.4 ChangeLogs End Here.
+---------------------------------------------------------------------------------------------------------------------------------------------
 # Small Update 2.0.3:
 
  Newly Added:
