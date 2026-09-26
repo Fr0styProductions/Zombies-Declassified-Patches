@@ -7,10 +7,12 @@
   - Earth Is now there and after firing rockets at the earth it will change to EE Earth.
   - Voicelines for every DLC 5 Map!
   - Wunderwaffle box chances behave like bo1
-      Rounds 1-5 | 2.5%
+
+    Rounds 1-5 | 2.5%
       After Rounds 5 | 15-16%
       After Rounds 10 | 20%
       After a player swaps it out for another box gun | +20% for the rest of the game.
+    
   - Winters Howl Walking Looks Better (The lowering when u walk or crouch).
   - Starting Delay on DLC 5 Maps.
 
